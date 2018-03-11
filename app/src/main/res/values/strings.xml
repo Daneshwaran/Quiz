@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">Quiz</string>
+<string name="pass_hint">Password...</string>
+<string name="Login_Btn">Login</string>
+    <string name="Register_Btn_login">Need an Account...</string>
+    <string name="User_Name">User Name</string>
+    <string name="Login_Imageview">Logo Login Page</string>
+</resources>
